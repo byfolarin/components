@@ -38,13 +38,13 @@ const PricingCards = () => {
           </div>
 
           <div className='pl-4 py-4 bg-transparent '>
-            {/* <ul className='text-sm text-[#757575] bg-transparent flex flex-col gap-2'>
+            <ul className='text-sm text-[#757575] bg-transparent flex flex-col gap-2'>
               <li>Individual configuration</li>
               <li>No setup, or hidden fees</li>
               <li>Team size: 1 developer</li>
               <li>Premium support: 6 months</li>
               <li>Free updates: 6 months</li>
-            </ul> */}
+            </ul>
           </div>
         </div>
         
