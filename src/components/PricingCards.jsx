@@ -2,17 +2,21 @@ import React from 'react'
 import Timer from '../assets/timer-start.svg'
 
 const PricingCards = () => {
+
+
+
   return (
     <div className='font-interTight mx-auto mt-8 flex justify-center gap-4'>
       <div className='flex flex-col gap-4 w-[400px]'>
 
-    <div className='py-[20px] px-8 rounded-3xl border bg-[#F2F2F2] border-white'>
-        <div className='flex gap-2 bg-transparent items-center'>
-            <img src={Timer} alt="" className='bg-transparent w-[24px] h-[24px]'  />
-            <h2 className='text-2xl font-bold bg-transparent'>Starter</h2>          
-        </div>
-          <p className='text-sm bg-transparent'>Best for personal use & for your next project.</p> 
-    </div>
+
+            <div className='py-[20px] px-8 rounded-3xl border bg-[#F2F2F2] border-white'>
+                <div className='flex gap-2 bg-transparent items-center'>
+                    <img src={Timer} alt="" className='bg-transparent w-[24px] h-[24px]'  />
+                    <h2 className='text-2xl font-bold bg-transparent'>Starter</h2>          
+                </div>
+                <p className='text-sm bg-transparent'>Best for personal use & for your next project.</p> 
+            </div>
 
         <div className='rounded-3xl border border-white bg-[#F2F2F2] p-2'>
           <div className='rounded-2xl border border-white p-2 bg-transparent'>
