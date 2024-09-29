@@ -9,7 +9,7 @@ const PricingCards = () => {
     <div className='font-interTight mx-auto mt-8 flex justify-center gap-4'>
       <div className='flex flex-col gap-4 w-[400px]'>
 
-
+      
             <div className='py-[20px] px-8 rounded-3xl border bg-[#F2F2F2] border-white'>
                 <div className='flex gap-2 bg-transparent items-center'>
                     <img src={Timer} alt="" className='bg-transparent w-[24px] h-[24px]'  />
