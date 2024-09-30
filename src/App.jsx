@@ -3,7 +3,13 @@ function App() {
 
   return (
     <div >
-     <PricingCards />
+     {/* <PricingCards /> */}
+     <main>
+      <section className='container'>
+        <h3>Hello birthdays today</h3>
+        <button>clear all</button>
+      </section>
+    </main>
     </div>
   )
 }
