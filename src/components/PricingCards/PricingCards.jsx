@@ -3,8 +3,6 @@ import Timer from '../assets/timer-start.svg'
 
 const PricingCards = () => {
 
-
-
   return (
     <div className='font-interTight mx-auto mt-8 flex justify-center gap-4'>
       <div className='flex flex-col gap-4 w-[400px]'>
