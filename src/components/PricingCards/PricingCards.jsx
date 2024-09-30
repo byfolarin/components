@@ -1,5 +1,5 @@
 import React from 'react'
-import Timer from '../assets/timer-start.svg'
+import Timer from '../../assets/timer-start.svg'
 
 const PricingCards = () => {
 

@@ -1,5 +1,4 @@
-import PricingCards from "./components/PricingCards"
-
+import PricingCards from "./components/PricingCards/PricingCards"
 function App() {
 
   return (
